@@ -1,0 +1,7 @@
+Iteration 2 
+
+Following Lab 4 instruction for Guit Hub.
+Progress report Iteration 2 includes two meeting reports, outlines *Eliminate waste. *Build quality. * Defer commitment. *Create simple solutions. Gantt chart from project manager, resource list. Test and review document.Github, git hub branching and github merging.Git hub flow, create and use a repository.Start and manage a new branch.Make changes to a file and push them to GitHub as commits.
+Open and merge a pull.
+
+
